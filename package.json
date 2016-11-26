@@ -1,0 +1,22 @@
+{
+  "name": "airqualitysensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeznag/airqualitysensor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeznag/airqualitysensor/issues"
+  },
+  "homepage": "https://github.com/jeznag/airqualitysensor#readme",
+  "dependencies": {
+    "serialport": "^4.0.6"
+  }
+}
